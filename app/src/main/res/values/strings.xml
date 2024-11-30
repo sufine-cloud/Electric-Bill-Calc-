@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WattMate</string>
+    <string name="rebate_label">Rebate Percentage: %.1f%%</string>
+    <string name="please_enter_units">Please enter electricity units!</string>
+    <string name="enter_valid_number">Please enter a valid number!</string>
+    <string name="result_label">Final Cost:</string>
+    <string name="stu_details">Developer:Aizatul Sufi Binti Sulaiman Shah\n\nStudent Number: 2022862416\n\nGroup: RCDCS2405B\n\nProgramme: CDCS240</string>
+    <string name="visit_github">Visit My Github</string>
+
+</resources>
